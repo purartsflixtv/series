@@ -1,18 +1,5 @@
 EXTM3U
 # ==========================================
-# 🌟 CIDADE DAS ESTRELAS (2026) (8 EPISÓDIOS)
-# ==========================================
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/yjiWWcaxTsJ6teVwnR87rWyA56P.jpg", [SERIE] Cidade das Estrelas (2026)
-#SINOPSE: Uma série que mergulha no universo do entretenimento e da fama, revelando os bastidores, os desafios e os sonhos daqueles que buscam brilhar na cidade das estrelas.
-#EPISODIO: S01E01 - Os olhos|https://redeflixapi.store/serie/252107/1/1
-#EPISODIO: S01E02|https://redeflixapi.store/serie/252107/1/2
-#EPISODIO: S01E03|https://redeflixapi.store/serie/252107/1/3
-#EPISODIO: S01E04|https://redeflixapi.store/serie/252107/1/4
-#EPISODIO: S01E05|https://redeflixapi.store/serie/252107/1/5
-#EPISODIO: S01E06|https://redeflixapi.store/serie/252107/1/6
-#EPISODIO: S01E07|https://redeflixapi.store/serie/252107/1/7
-#EPISODIO: S01E08|https://redeflixapi.store/serie/252107/1/8
-# ==========================================
 # 🙏 WITHOUT SIN: SEM PECADO (2022) (4 EPISÓDIOS)
 # ==========================================
 #EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/pmizazGSZDaaDV5p52v7BlDhpZy.jpg", [SERIE] Without Sin: Sem Pecado (2022)
@@ -24,7 +11,7 @@ EXTM3U
 # ==========================================
 # 💔 O POLÍGAMO (2026) (22 EPISÓDIOS)
 # ==========================================
-#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/322430/1/1", [SERIE] O Polígamo (2026)
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w342/44dDRL0E3BqxFW8qje9Ilkv0iv7.jpg", [SERIE] O Polígamo (2026)
 #SINOPSE: A série acompanha a vida de um homem que mantém múltiplos relacionamentos simultâneos, explorando os desafios emocionais, os segredos e as consequências de uma vida dividida entre diferentes amores e famílias.
 #EPISODIO: S01E01|https://redeflixapi.store/serie/322430/1/1
 #EPISODIO: S01E02|https://redeflixapi.store/serie/322430/1/2
