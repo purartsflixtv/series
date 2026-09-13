@@ -3680,14 +3680,14 @@
 # ==========================================
 #EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/iEcju8TBN5jmZswIpQXV5YTJB9L.jpg", [SERIE] Jogada de Risco (2026)
 #SINOPSE: A série acompanha Maurício (Cauã Reymond), um ex-atacante que teve a carreira no futebol interrompida precocemente por lesões e pela má administração do pai. Para se reerguer, ele decide se tornar agente de jogadores e mergulha nos bastidores do futebol, um universo de negociações milionárias, disputas de poder, rivalidades do passado e dívidas com o crime organizado.
-#EPISODIO: S01E01|http://redeflixapi.store/serie/299188/1/1
-#EPISODIO: S01E02|http://redeflixapi.store/serie/299188/1/2
-#EPISODIO: S01E03|http://redeflixapi.store/serie/299188/1/3
-#EPISODIO: S01E04|http://redeflixapi.store/serie/299188/1/4
-#EPISODIO: S01E05|http://redeflixapi.store/serie/299188/1/5
-#EPISODIO: S01E06|http://redeflixapi.store/serie/299188/1/6
-#EPISODIO: S01E07|http://redeflixapi.store/serie/299188/1/7
-#EPISODIO: S01E08|http://redeflixapi.store/serie/299188/1/8
+#EPISODIO: S01E01|https://redeflixapi.store/serie/299188/1/1
+#EPISODIO: S01E02|https://redeflixapi.store/serie/299188/1/2
+#EPISODIO: S01E03|https://redeflixapi.store/serie/299188/1/3
+#EPISODIO: S01E04|https://redeflixapi.store/serie/299188/1/4
+#EPISODIO: S01E05|https://redeflixapi.store/serie/299188/1/5
+#EPISODIO: S01E06|https://redeflixapi.store/serie/299188/1/6
+#EPISODIO: S01E07|https://redeflixapi.store/serie/299188/1/7
+#EPISODIO: S01E08|https://redeflixapi.store/serie/299188/1/8
 # ==========================================
 # ☁️ SENHOR DOS CÉUS - TEMPORADA 1 (74 EPISÓDIOS)
 # ==========================================
@@ -3828,13 +3828,13 @@
 #EPISODIO: S02E07|https://redeflixapi.store/serie/94997/2/7
 #EPISODIO: S02E08|https://redeflixapi.store/serie/94997/2/8
 #EPISODIO: S03E01|https://redeflixapi.store/serie/94997/3/1
-#EPISODIO: S03E02|http://redeflixapi.store/serie/94997/3/2
-#EPISODIO: S03E03|http://redeflixapi.store/serie/94997/3/3
-#EPISODIO: S03E04|http://redeflixapi.store/serie/94997/3/4
-#EPISODIO: S03E05|http://redeflixapi.store/serie/94997/3/5
-#EPISODIO: S03E06|http://redeflixapi.store/serie/94997/3/6
-#EPISODIO: S03E07|
-#EPISODIO: S03E08|
+#EPISODIO: S03E02|https://redeflixapi.store/serie/94997/3/2
+#EPISODIO: S03E03|https://redeflixapi.store/serie/94997/3/3
+#EPISODIO: S03E04|https://redeflixapi.store/serie/94997/3/4
+#EPISODIO: S03E05|https://redeflixapi.store/serie/94997/3/5
+#EPISODIO: S03E06|https://redeflixapi.store/serie/94997/3/6
+#EPISODIO: S03E07|https://redeflixapi.store/serie/94997/3/7
+#EPISODIO: S03E08|https://redeflixapi.store/serie/94997/3/8
 
 #EXTINF:-1 group-title="Séries" tvg-logo="https://noveflixtv.com/wp-content/uploads/2025/03/r7KT6OgoicspgyavPHutABLn1u2-214x300.jpg", [SERIE] A Dama de Companhia
 #SINOPSE: Uma jovem se torna dama de companhia de uma idosa rica e descobre segredos obscuros da família, envolvendo assassinatos e heranças disputadas.
